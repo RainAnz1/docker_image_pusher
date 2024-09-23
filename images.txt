@@ -2,3 +2,4 @@ alpine
 kasmweb/nginx:1.25.3
 ghcr.io/wg-easy/wg-easy
 whyour/qinglong:2.17.8
+6053537/portainer-ce:latest
