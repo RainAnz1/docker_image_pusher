@@ -6,3 +6,4 @@ whyour/qinglong:2.17.8
 docker.1panel.live/synctvorg/synctv
 whyour/qinglong:2.10.13
 whyour/qinglong:latest
+jeessy/ddns-go
